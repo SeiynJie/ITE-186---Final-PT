@@ -2,6 +2,5 @@
  School project
 
 Video:
-<video width="800" height="600" controls>
-  <source src="ITE 186 - Final PT - Aaron Asperilla - 1-31-2025.mov" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/55cb09d7-5920-427b-8614-feb257846de2
+
